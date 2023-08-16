@@ -1,0 +1,15 @@
+#services{
+    text-align: center;
+    padding: 150px 0;
+    background: rgb(214, 193, 214);
+}
+#services h2{
+    margin-bottom: 40px;
+}
+#about{
+    padding: 150px;
+}
+#about h2{
+    color: blueviolet;
+    margin-bottom: 25px;
+}
